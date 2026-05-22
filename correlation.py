@@ -9,10 +9,6 @@ failure localization in heterogeneous 5G core networks using:
 ------------------------------------------------------------
 """
 
-# ============================================================
-# Imports
-# ============================================================
-
 import random
 import warnings
 import tkinter as tk
